@@ -2,6 +2,9 @@
 
 This project was developed using React JS and for getting the movies & series data I used the The Movie Database (TMDB) API.
 
+You can get your own API key through the following link:
+https://www.themoviedb.org/
+
 ## Available Scripts
 
 In the project directory, you can run:
