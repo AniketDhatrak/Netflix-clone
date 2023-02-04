@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Netflix clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was developed using React JS and for getting the movies & series data I used the The Movie Database (TMDB) API.
 
 ## Available Scripts
 
