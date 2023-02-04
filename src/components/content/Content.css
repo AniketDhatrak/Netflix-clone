@@ -1,0 +1,8 @@
+.content_wrapper {
+    width: 100%;
+    height: auto;
+    padding: 30px 2%;
+    border-top: 8px solid var(--white);
+    border-bottom: 8px solid var(--white);
+  }
+  
